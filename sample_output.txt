@@ -1,0 +1,24 @@
+00031a02a972efd4fa6ea999407149b85b03ccecb8c2bb8eb5a1d068862309d0
+000cc838159756bd4e6865b276eee53d8200bd6244e9500e06c7f2d0db7ca60e
+000e557ad552a1723f0949130c37789e7c7ab6e1bfb03877eea2109a0cd13200
+000f6a11daf38ee1a722890df57d439aeeec3cd303402e227da16634fcb1ddc3
+Previous Hash:
+Data in block: Genesis
+Hash: 00031a02a972efd4fa6ea999407149b85b03ccecb8c2bb8eb5a1d068862309d0
+PoW: true
+-------------------------
+Previous Hash: 00031a02a972efd4fa6ea999407149b85b03ccecb8c2bb8eb5a1d068862309d0
+Data in block: First block after Genesis
+Hash: 000cc838159756bd4e6865b276eee53d8200bd6244e9500e06c7f2d0db7ca60e
+PoW: true
+-------------------------
+Previous Hash: 000cc838159756bd4e6865b276eee53d8200bd6244e9500e06c7f2d0db7ca60e
+Data in block: Second block after Genesis
+Hash: 000e557ad552a1723f0949130c37789e7c7ab6e1bfb03877eea2109a0cd13200
+PoW: true
+-------------------------
+Previous Hash: 000e557ad552a1723f0949130c37789e7c7ab6e1bfb03877eea2109a0cd13200
+Data in block: Third block after Genesis
+Hash: 000f6a11daf38ee1a722890df57d439aeeec3cd303402e227da16634fcb1ddc3
+PoW: true
+-------------------------
